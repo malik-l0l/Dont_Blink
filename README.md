@@ -13,8 +13,7 @@ Welcome to the world of terminal magic! Brace yourself for a spellbinding experi
 To run the project in your local environment,Python must be installed on your system and follow these steps:
 
 1. Clone the repository to your local machine or just copy-paste the code in `dont_blink.py`.
-2. Run `pip install tkinter` in the project directory to install the Tkinter library, which is usually included with Python installations.
-3. Run `py dont_blink.py` in terminal or click on run `▶️` button to get the project started.
+2. Run `py dont_blink.py` in terminal or click on run `▶️` button to get the project started.
 
 ## 📙 How to Use
 
